@@ -4,3 +4,6 @@
 
 This was the architecture that I used here.
 
+<img width="2000" alt="graphviz" src="https://user-images.githubusercontent.com/51853466/79574062-3abfd680-80dd-11ea-9b7e-3e04a6f35a14.png">
+
+
